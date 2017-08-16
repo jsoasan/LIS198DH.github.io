@@ -1,4 +1,4 @@
-### COURSE GOALS:
+<h1>### COURSE GOALS:<h1>
 - Exhibit awareness with the different perspectives on digital humanities.
 - Develop familiarity with digital humanities projects 
 - Engage with a variety of digital humanities tools and choose the most appropriate technology to facilitate different work in different situations.
@@ -8,6 +8,7 @@
 1. akizuki12
 1. username
 1. username
+1.jsoasan
 
 ### August 16 Activity
 1. Edit this document (https://guides.github.com/activities/forking/) by adding your GitHub username under the members section using the proper markdowns (https://guides.github.com/features/mastering-markdown/)
